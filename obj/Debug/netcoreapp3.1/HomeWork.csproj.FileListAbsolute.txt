@@ -1,0 +1,11 @@
+C:\HW_04-04-2020_SUM_2\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\HW_04-04-2020_SUM_2\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\HW_04-04-2020_SUM_2\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\HW_04-04-2020_SUM_2\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\HW_04-04-2020_SUM_2\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\HW_04-04-2020_SUM_2\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\HW_04-04-2020_SUM_2\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\HW_04-04-2020_SUM_2\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\HW_04-04-2020_SUM_2\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\HW_04-04-2020_SUM_2\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\HW_04-04-2020_SUM_2\obj\Debug\netcoreapp3.1\HomeWork.pdb
